@@ -19,13 +19,13 @@ Microservicio de interacciones sociales para operaciones sobre los videos del si
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/Luchardiles/social-interactions-service
+git clone https://github.com/Luchardiles/social-interactions-service2
 ```
 
 2. **Ingresar al directorio del proyecto**
 
 ```bash
-cd social-interactions-service
+cd social-interactions-service2
 ```
 
 3. **Instalar las dependencias**
